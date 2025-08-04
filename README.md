@@ -9,3 +9,5 @@ wget --no-check-certificate -N -O socks5.sh https://raw.githubusercontent.com/yz
 ```
 wget --no-check-certificate -N -O socks5.sh https://8-8-8-8.top/socks5.sh && chmod +x socks5.sh && bash socks5.sh
 ```
+觉得好用就点个Star吧，欢迎申请免费节点：
+[https://8-8-8-8.top](https://8-8-8-8.top)
